@@ -34,5 +34,5 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+* There's actually no example or instruction to give because it's just a test document, so keep free for what you want.
+* Na verdade, não tem exemplou ou instrução para dar, pois isso é só um documento de teste, portanto continue livre para o que quiser.
