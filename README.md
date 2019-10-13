@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+ 
+This is just a test, that I'm doing to learn some stuff about GitHub, but , if want to contribute with this anyway, every ideas will be welcome.
+Isso é só um teste que estou fazendo pra aprendar algumas coisas sobreo GitHub, mas, se quiser contribuir de alguma forma, toda ideia seŕa bem vinda.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This is actually free to any idea.
+Na verdade, isso está livre para qualquer ideia
 
 ## Getting started
 
